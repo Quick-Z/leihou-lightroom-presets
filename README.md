@@ -15,7 +15,7 @@ Lightroom 预设库，按专辑收录。
 - macOS：`~/Library/Application Support/Adobe/CameraRaw/ImportedSettings/`
 - Windows：`%APPDATA%\Adobe\CameraRaw\ImportedSettings\`
 
-所有专辑都放在 [`LR滤镜预设/`](LR滤镜预设/) 文件夹里，一张专辑一个子文件夹。每张专辑都附有预览图和「专辑说明」，可以先看效果再决定导入哪一个。
+所有专辑都放在 [`LR滤镜预设/`](LR滤镜预设/) 文件夹里，一张专辑一个子文件夹。每张专辑都附有预览图和「滤镜说明」，可以先看效果再决定导入哪一个。
 
 ---
 
